@@ -7,6 +7,26 @@ Inspired by Scikit-Learn library
 Implemented Python Library to automate combinations encoder, scaler and other parameters   
 Python Library to automate and score combinations of encoder, scaler and K value for K-fold validation and model parameters for classification in machine learning.
 
+### Scaler    
+*Standard Scaler*  
+*MinMax Scaler*   
+*MaxAbs Scaler*   
+*Robust Scaler*   
+*Normalizer*   
+
+### Encoder    
+*Label Encoder*  
+*OneHot Encoder*   
+*MaxAbs Scaler*   
+*Robust Scaler*   
+*Normalizer*   
+
+### Models    
+*DecisionTreeClassifier(Entropy)*  
+*DecisionTreeClassifier(Gini)*   
+*LogisticRegression*   
+*SupportVectorMachine*   
+
 Specifics about methods and attributes described in documents.pdf
 
 ## breast_cancer.ipynb
